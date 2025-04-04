@@ -17,6 +17,7 @@ public class TestClass {
     public void tearDown() {
         if (driver != null) {
             driver.quit();
+
         }
     }
 
